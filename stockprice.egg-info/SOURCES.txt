@@ -1,0 +1,9 @@
+setup.py
+stockprice/__init__.py
+stockprice/stockprice.py
+stockprice.egg-info/PKG-INFO
+stockprice.egg-info/SOURCES.txt
+stockprice.egg-info/dependency_links.txt
+stockprice.egg-info/entry_points.txt
+stockprice.egg-info/requires.txt
+stockprice.egg-info/top_level.txt
